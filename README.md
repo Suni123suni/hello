@@ -1,2 +1,3 @@
 # hello
 Python
+print("hello")
